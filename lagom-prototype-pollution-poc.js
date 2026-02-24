@@ -1,6 +1,6 @@
 // Prototype Pollution in Lagom WHMCS Template
 // Discovered by: S4nnty
-// Affected: Lagom WHMCS Template version 2.3.7
+// Affected: Lagom WHMCS Template
 // Description: The Lagom template bundles an outdated datatables.net (<1.10.23)
 // exposing _fnSetObjectDataFn which allows prototype pollution attacks.
 
